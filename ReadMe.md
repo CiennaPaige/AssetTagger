@@ -20,6 +20,7 @@ All libraries contained in `env\`.
 Download program directly from Github.
 
 Update URL on line 15 in `app.py`.
+Update API keys
 
 ### Executing program
 
