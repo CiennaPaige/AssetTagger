@@ -33,8 +33,7 @@ Update API keys
 python app.py 
 ```
 
-## Authors
+## Liscense 
 
-Cienna Slattery 
+GNU General Public License v3.0[(https://choosealicense.com/licenses/gpl-3.0/)]
 
-Slatteryc@berea.edu
